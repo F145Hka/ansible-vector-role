@@ -1,2 +1,2 @@
 ---
-# defaults file for ansible-vector-role
+vector_version: "0.35.0-1"
